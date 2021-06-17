@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndradeClaudio
 - 👀 Eu estou interessado em Python, Advpl, Tlpp, Marchine Learning, Mql5
-- 🌱 Estou aprendendo reinforcement 
 - 📫 Contato: andsil@gmail.com
 
 <!---
